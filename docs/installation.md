@@ -117,7 +117,7 @@ pip install -e . --user
 
 ## Usage
 * test if simdeep is functional (all the software are correctly installed): go to main folder (./DeepProg/) and run the following
-
+## need to be fixed
 ```bash
   python3 test/test_simdeep.py -v #
   ```
